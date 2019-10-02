@@ -1,2 +1,2 @@
-# lesson-6
+# Lesson 6
 Figma practive for 6th lesson in SYNTAX School
